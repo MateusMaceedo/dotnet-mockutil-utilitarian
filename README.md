@@ -2,6 +2,8 @@
 
 ##### Gestão de pacotes para solução via NutGet
 
+##### Instale os seguintes pacotes:
+
 - [x] Microsoft.NET.Test.Sdk
 - [x] Moq
 - [x] xunit
