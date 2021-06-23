@@ -1,8 +1,6 @@
 ### Testes Automatizados para soluções .NET core ++
 
-##### Gestão de pacotes para solução via NutGet
-
-##### Instale os seguintes pacotes:
+##### Para a gestão de soluções via NuGet, instale os seguintes pacotes:
 
 - [x] Microsoft.NET.Test.Sdk
 - [x] Moq
