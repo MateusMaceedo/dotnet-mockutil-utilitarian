@@ -1,6 +1,6 @@
 ### MockUtil .NET
 
-##### Gestão de pacotes para solução via ##NutGet
+##### Gestão de pacotes para solução via NutGet
 
 - [x] Microsoft.NET.Test.Sdk
 - [x] Moq
