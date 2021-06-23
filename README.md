@@ -1,4 +1,4 @@
-### MockUtil .NET
+### Testes Automatizados para soluções .NET core ++
 
 ##### Gestão de pacotes para solução via NutGet
 
