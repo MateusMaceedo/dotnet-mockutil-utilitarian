@@ -1,4 +1,4 @@
-### Testes Automatizados para soluções .NET core ++.
+### Testes Automatizados para soluções .NET core ++
 
 ##### Para a gestão de soluções via NuGet, instale os seguintes pacotes:
 
